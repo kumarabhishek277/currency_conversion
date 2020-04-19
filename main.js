@@ -20,11 +20,11 @@ function calculate()
                             }
                         else if(b == "USD" && c == "INR")
                             {
-                                document.getElementById("answer").innerHTML = (a * conversion_rate).toFixed(2);
+                                document.getElementById("answer").innerHTML = a+" USD = "+(a * conversion_rate).toFixed(2)+" INR";
                             }
                         else
                             {
-                                document.getElementById("answer").innerHTML = (a/conversion_rate).toFixed(2);
+                                document.getElementById("answer").innerHTML = a + " INR = "+(a/conversion_rate).toFixed(2)+" USD";
                             }
                     }
             }

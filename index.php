@@ -69,12 +69,12 @@
                         <td>
                             <select name="" id="from_country">
                                 <option value="USD" selected>US DOLLAR(USD)</option>
-                                <option value="INR">INDIAN RUPPEE</option>
+                                <option value="INR">INDIAN RUPPEE(INR)</option>
                             </select>
                         </td>
                         <td>
                             <select name="" id="to_country">
-                                <option value="INR" selected>INDIAN RUPPEE</option>
+                                <option value="INR" selected>INDIAN RUPPEE(INR)</option>
                                 <option value="USD">US DOLLAR(USD)</option>
                             </select>
                         </td>
