@@ -1,0 +1,6 @@
+Database name: conversion
+Table name = user_details
+
+column name : firstname(varchar(40)), lastname(varchar(40)),gender(varchar(10)),email(varchar(50)),password(varchar(10))
+
+primary key : email 
